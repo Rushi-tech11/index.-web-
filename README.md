@@ -23,14 +23,14 @@ Use <ol> for numbered lists.
 
 Lists present facts or steps clearly.
 
-🖼️ 5. Embed Images
+🖼 5. Embed Images
 Use <img src="image-url" alt="description"> to add images.
 
 Always include alt text for accessibility.
 
 Use <figure> and <figcaption> to add captions.
 
-🗂️ 6. Group Content with Sections
+🗂 6. Group Content with Sections
 Use <section> to separate different topics logically.
 
 📚 7. Add References or Citations
@@ -49,8 +49,8 @@ Symbol	HTML Element	Purpose
 📄	<p>	Paragraphs of text
 🔗	<a>	Hyperlinks to other pages or URLs
 📋	<ul>, <ol>	Lists for facts or ordered steps
-🖼️	<img>, <figure>, <figcaption>	Images with captions
-🗂️	<section>	Group related content
+🖼	<img>, <figure>, <figcaption>	Images with captions
+🗂	<section>	Group related content
 📚	<ol>, <ul>	Reference lists
 🔖	id and <a href>	Internal page navigation links
 
