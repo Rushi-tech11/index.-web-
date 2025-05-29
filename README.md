@@ -1,6 +1,8 @@
-📝 How to Create a Wikipedia-Style Page Using Only HTML
+📋 What is a Registration Form?
+A registration form is a web-based form that allows users to create an account by entering their personal details. It is commonly used on websites and applications to gather information such as the user’s name, email, password, and other optional details like gender or date of birth.
+
 🔠 1. Use Semantic Headings
-Use <h1> for the main title (page name).
+Use <h1> for the main title ().
 
 Use <h2>, <h3>, <h4> for sections and subsections.
 
